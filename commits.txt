@@ -1,0 +1,41 @@
+commit 1c94e0d311613923ed4a3ef75cc902d0138a09c0
+Author: Airel Jaramillo <aireljaramillo4@gmail.com>
+Date:   Mon Jul 15 12:25:15 2019 -0500
+
+    Texto 2
+
+commit 6512b78607b6eab7af755f671a31bcf31fbb3ba4
+Author: Airel Jaramillo <aireljaramillo4@gmail.com>
+Date:   Mon Jul 15 12:22:42 2019 -0500
+
+    Nos movimos a texto
+
+commit cd73268d45903d27d3091a9d1621490cdf82899a
+Author: Airel Jaramillo <aireljaramillo4@gmail.com>
+Date:   Mon Jul 15 11:55:16 2019 -0500
+
+    fusion prueba 1
+
+commit 4e4a6e9bc13651af85727cc394b2065b900b6c99
+Author: Airel Jaramillo <aireljaramillo4@gmail.com>
+Date:   Mon Jul 15 11:42:54 2019 -0500
+
+    Margee
+
+commit 87a48a54de4491f4f4c2852e9c881038240ad475
+Author: Airel Jaramillo <aireljaramillo4@gmail.com>
+Date:   Mon Jul 15 11:26:15 2019 -0500
+
+    Prueba dos
+
+commit 989ffa81d6d56e3382f09d118b74221112f7915f
+Author: Airel Jaramillo <aireljaramillo4@gmail.com>
+Date:   Mon Jul 15 11:22:05 2019 -0500
+
+    Prueba test
+
+commit 663d3733e2643920496d55eb416335df3b3367ec
+Author: Airel Jaramillo <aireljaramillo4@gmail.com>
+Date:   Mon Jul 15 10:53:51 2019 -0500
+
+    Inciamos HTML
